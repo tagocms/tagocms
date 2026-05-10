@@ -1,14 +1,14 @@
-<img src="cyberpunk.gif" align="left" width="300">
+<img src="cyberpunk.gif" align="left" width="330">
 
 ### Hey!
     
-👾 I'm *Tiago*
+👨‍💻 I'm **Tiago Camargo M. dos Santos**
 
-💼 iOS Developer Trainee at [Apple Developer Academy PUCPR](https://developeracademy.pucpr.br/)
+💼 iOS Developer Trainee at [**Apple Developer Academy PUCPR**](https://developeracademy.pucpr.br/)
 
-🎓 Studying *Systems Analysis and Development* at PUCPR
+🎓 Studying **Systems Analysis and Development** at PUCPR
 
-📊 Business graduate from *UFPR*, with background in financial and tax planning
+📊 **Business graduate** from UFPR, with background in financial and tax planning
 
 ⚙️ Using ⁠ Swift ⁠, ⁠ SwiftUI ⁠, ⁠ UIKit ⁠, ⁠ React Native ⁠ and ⁠ macOS ⁠
 
