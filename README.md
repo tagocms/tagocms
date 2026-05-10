@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="cyberpunk.gif" align="left" width="300">
 
-<!--
-**tagocms/tagocms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey!
+    
+👾 I'm *Tiago*
 
-Here are some ideas to get you started:
+💼 iOS Developer Trainee at [Apple Developer Academy PUCPR](https://developeracademy.pucpr.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studying *Systems Analysis and Development* at PUCPR
+
+📊 Business graduate from *UFPR*, with background in financial and tax planning
+
+⚙️ Using ⁠ Swift ⁠, ⁠ SwiftUI ⁠, ⁠ UIKit ⁠, ⁠ React Native ⁠ and ⁠ macOS ⁠
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tiagocamargom-313131?style=flat&logo=linkedin)](https://linkedin.com/in/tiagocamargom)
+[![views](https://komarev.com/ghpvc/?username=tagocms&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/tagocms)
+![Stars](https://img.shields.io/github/stars/tagocms?label=Stars&style=flat&color=313131)
